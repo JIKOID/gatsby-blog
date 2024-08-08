@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jikoid.github.io/sitemap-pages.xml
+Host: https://jikoid.github.io
